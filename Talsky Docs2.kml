@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Talsky Docs</name>
+    <description>Chiropractic Offices that use the Talsky Tonal Chiropractic model and technique</description>
+    <!-- Styles omitted for brevity -->
+
+    <Folder>
+      <name>Untitled layer</name>
+      
+      <Placemark>
+        <name>Cultivate Wellness Chiropractic</name>
+        <description><![CDATA[<a href="https://cultivatewellnesschiro.com">Cultivate Wellness Chiropractic Website</a><br>(248)221-1118]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>-83.159966,42.6820301,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Experience Wellness Chiropractic</name>
+        <description><![CDATA[<a href="https://experiencewellnessmn.com">Experience Wellness Chiropractic Website</a><br>(Phone Number if available)]]></description>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>-93.4623955,45.0138501,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Talsky Tonal Chiropractic</name>
+        <description><![CDATA[<a href="https://talskytonalchiropractic.com">Talsky Tonal Chiropractic Website</a><br>(847)828-4108]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>-87.7713429,42.1040252,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- Other Placemarks -->
+      
+    </Folder>
+  </Document>
+</kml>
